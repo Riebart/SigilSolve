@@ -1,0 +1,13 @@
+﻿  sigilsolve.cpp
+c:\users\michael\documents\projects\sigilsolve\sigilsolve\sigilsolve.cpp(338): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\michael\documents\projects\sigilsolve\sigilsolve\sigilsolve.cpp(339): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\michael\documents\projects\sigilsolve\sigilsolve\sigilsolve.cpp(346): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\michael\documents\projects\sigilsolve\sigilsolve\sigilsolve.cpp(398): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'unsigned __int64'
+  c:\users\michael\documents\projects\sigilsolve\sigilsolve\sigilsolve.cpp(398): note: consider using '%llu' in the format string
+  c:\users\michael\documents\projects\sigilsolve\sigilsolve\sigilsolve.cpp(398): note: consider using '%Iu' in the format string
+  c:\users\michael\documents\projects\sigilsolve\sigilsolve\sigilsolve.cpp(398): note: consider using '%I64u' in the format string
+  SigilSolve.vcxproj -> C:\Users\Michael\Documents\Projects\SigilSolve\x64\Debug\SigilSolve.exe
+  SigilSolve.vcxproj -> C:\Users\Michael\Documents\Projects\SigilSolve\x64\Debug\SigilSolve.pdb (Full PDB)
